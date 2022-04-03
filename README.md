@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello! I'm Fernando Fonseca</h1>
+<h3 align="center">Fullstack Developer</h3>
 
-<!--
-**TheUnnamedPerson/TheUnnamedPerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="CENTER">Reach Me Through</h2>
 
-Here are some ideas to get you started:
+ - [**Email**](ffonseca1399@outlook.com)
+ - [**Linked In**](www.linkedin.com/in/unnamedperson)
+ - [**Instagram**](https://www.instagram.com/unnamed.person_/)
+ - [**Discord**](https://discord.com/channels/@me/264168562183241730)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Fernando's GitHub stats](https://github-readme-stats-rddmmrkrs-theunnamedperson.vercel.app/api?username=TheUnnamedPerson&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=fff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Most Used Languages](https://github-readme-stats-rddmmrkrs-theunnamedperson.vercel.app/api/top-langs/?username=TheUnnamedPerson)](https://github.com/anuraghazra/github-readme-stats)
