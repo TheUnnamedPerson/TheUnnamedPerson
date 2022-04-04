@@ -4,7 +4,7 @@
 <h2 align="CENTER">Reach Me Through</h2>
 
  - [**Email**](ffonseca1399@outlook.com)
- - [**Linked In**](www.linkedin.com/in/unnamedperson)
+ - [**Linked In**](https://www.linkedin.com/in/unnamedperson)
  - [**Instagram**](https://www.instagram.com/unnamed.person_/)
  - [**Discord**](https://discord.com/channels/@me/264168562183241730)
 
