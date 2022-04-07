@@ -1,6 +1,8 @@
 <h1 align="center">Hello! I'm Fernando Fonseca</h1>
 <h3 align="center">Fullstack Developer</h3>
 
+Please Note That ALthough My Github Account has Existed for a While Now, I Only Became Active A Little Bit Ago and Almost None of My Projects Are On Here.
+
 <h2 align="CENTER">Reach Me Through</h2>
 
  - [**Email**](ffonseca1399@outlook.com)
