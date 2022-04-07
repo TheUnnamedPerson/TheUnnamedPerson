@@ -8,7 +8,12 @@ Also Note That I Do a Lot of Contribution to Private Repos So The Stats Visible 
 Lastly, If You Have Any Questions Regarding Work in the Aforementioned Private Repos Feel Free To Ask.
 If I Have Clearence for the Specific Project Then I'll Give Details.
 
-Currently Working On: Robotics Code For [**Avenir Innovations**](https://github.com/Avenir-Innovations)
+Currently Working On:
+ - Robotics Code For [**Avenir Innovations**](https://github.com/Avenir-Innovations)
+ - A "Game" That Serves as a Personal Project, No Link For Now Since It's Just Me But Being Doing it On and Off for 4 Years Now In C# and UWP.
+ - [**A Small Text-Based Console Game on Replit**](https://replit.com/@FernandoFonsec8/CAMS-RPG) That I Only Ever Work on During My Freetime. Shenanigans.
+
+Would Prefer to Keep My Other Personal Projects Private But If Requested I May Give Information.
 
 <h2 align="CENTER">Reach Me Through</h2>
 
