@@ -3,6 +3,13 @@
 
 Please Note That ALthough My Github Account has Existed for a While Now, I Only Became Active A Little Bit Ago and Almost None of My Projects Are On Here.
 
+Also Note That I Do a Lot of Contribution to Private Repos So The Stats Visible Here Don't Reflect What I've Actually Contributed To
+
+Lastly, If You Have Any Questions Regarding Work in the Aforementioned Private Repos Feel Free To Ask.
+If I Have Clearence for the Specific Project Then I'll Give Details.
+
+Currently Working On: Robotics Code For [**Avenir Innovations**](https://github.com/Avenir-Innovations)
+
 <h2 align="CENTER">Reach Me Through</h2>
 
  - [**Email**](ffonseca1399@outlook.com)
