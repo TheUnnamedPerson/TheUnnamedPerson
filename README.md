@@ -24,4 +24,4 @@ Would Prefer to Keep My Other Personal Projects Private But If Requested I May G
 https://github-readme-stats.vercel.app/api?username=anuraghazra)
 [![Fernando's GitHub stats](https://github-readme-stats-nu-roan-40.vercel.app/api?username=TheUnnamedPerson&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=fff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most Used Languages]([(https://github-readme-stats.vercel.app/api?username=TheUnnamedPerson&show_icons=true&hide_border=true&title_color=fff&icon_color=2f96c0&text_color=fff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api?username=TheUnnamedPerson&show_icons=true&hide_border=true&title_color=fff&icon_color=2f96c0&text_color=fff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
