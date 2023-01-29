@@ -1,5 +1,5 @@
 # Fernando Fonseca
-Software Developer and CSE Student at UC Merced
+**Software Developer and CSE Student at UC Merced**
 
 
 ### Languages
