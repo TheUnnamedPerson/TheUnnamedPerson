@@ -2,7 +2,7 @@
 Software Developer and CSE Student at UC Merced
 
 
-### 🛠️ Languages
+### Languages
 
 <div style="display: flex; justify-content: flex-start;">
   <code><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
