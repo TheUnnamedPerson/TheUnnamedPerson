@@ -1,27 +1,37 @@
-<h1 align="center">Hello! I'm Fernando Fonseca</h1>
-<h3 align="center">Software Developer</h3>
+# Fernando Fonseca
+Software Developer and CSE Student at UC Merced
 
-Please Note That ALthough My Github Account has Existed for a While Now, I Only Became Active A Little Bit Ago and Almost None of My Projects Are On Here.
 
-Also Note That I Do a Lot of Contribution to Private Repos So The Stats Visible Here Don't Reflect What I've Actually Contributed To
+### 🛠️ Languages
 
-Lastly, If You Have Any Questions Regarding Work in the Aforementioned Private Repos Feel Free To Ask.
-If I Have Clearence for the Specific Project Then I'll Give Details.
+<div style="display: flex; justify-content: flex-start;">
+  <code><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
+  <code><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
+  <code><a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></code>![image](https://user-images.githubusercontent.com/40750101/215297569-ec7302df-aa98-4d8e-b8a3-f4e74e0868df.png)
 
-Currently Working On:
- - Robotics Code For [**Avenir Innovations**](https://github.com/Avenir-Innovations)
- - A "Game" That Serves as a Personal Project, No Link For Now Since It's Just Me But Being Doing it On and Off for 4 Years Now In C# and UWP.
- - [**A Small Text-Based Console Game on Replit**](https://replit.com/@FernandoFonsec8/CAMS-RPG) That I Only Ever Work on During My Freetime. Shenanigans.
+  <code><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a></code>
+  <code><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a></code>
+  <code><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code>![image](https://user-images.githubusercontent.com/40750101/215297594-fd72758b-5742-42d9-a343-bd30e7ac2d78.png)
 
-Would Prefer to Keep My Other Personal Projects Private But If Requested I May Give Information.
+  <code><a href="https://www.lua.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/></a></code>
+  <code><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/></a></code>
+  <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
+  <code><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></code>
+</div>![image](https://user-images.githubusercontent.com/40750101/215297580-3230dacf-dc06-4785-aa17-451969146947.png)
 
-<h2 align="CENTER">Reach Me Through</h2>
+
+### Currently Working On:![image](https://user-images.githubusercontent.com/40750101/215297578-d8b51720-3b4b-462e-9a12-fb5a1b5bd75c.png)
+
+ - Various Miscellaneous Projects I Have Begun to Upload
+ - A Video Game
+
+### Reach Me Through
 
  - [**Email**](ffonseca1399@outlook.com)
  - [**Linked In**](https://www.linkedin.com/in/unnamedperson)
  - [**Instagram**](https://www.instagram.com/unnamed.person_/)
  - [**Discord**](https://discord.com/channels/@me/264168562183241730)
 
-[![Fernando's GitHub Stats](https://github-readme-stats-nu-roan-40.vercel.app/api?username=TheUnnamedPerson&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=fff&icon_color=2f96c0&text_color=fff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheUnnamedPerson&show_icons=true&hide_border=true&title_color=fff&icon_color=2f96c0&text_color=fff&bg_color=0d1117&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+### Github Stats
+[![Github Stats](https://github-readme-stats-nu-roan-40.vercel.app/api?username=TheUnnamedPerson&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=fff&hide_title=true&line_height=33&icon_color=2f96c0&text_color=fff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheUnnamedPerson&show_icons=true&hide_border=true&title_color=fff&icon_color=2f96c0&text_color=fff&hide_title=true&bg_color=0d1117&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
