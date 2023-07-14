@@ -1,5 +1,5 @@
 # Fernando Fonseca
-**Software Developer and CSE Student at UC Merced**
+**Software Developer**
 
 
 ### Languages
@@ -19,8 +19,8 @@
 
 ### Currently Working On:
 
- - Various Miscellaneous Projects I Have Begun to Upload
- - A Video Game
+ - Machiavelli
+ - Updating and Uploading Older Projects
 
 ### Reach Me Through
 
